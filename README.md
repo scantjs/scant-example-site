@@ -2,6 +2,8 @@
 
 This repository is an example site using Scant.
 
+[Scant Example Site](http://scant-example-site.surge.sh/ "Scant Example Site")
+
 ## Usage
 
 ```sh
