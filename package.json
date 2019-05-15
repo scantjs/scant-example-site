@@ -1,0 +1,32 @@
+{
+  "name": "scant-example-site",
+  "version": "0.0.1",
+  "description": "An example site using Scant.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scantjs/scant-example-site.git"
+  },
+  "scripts": {
+    "start": "sirv public -s",
+    "build": "scant build"
+  },
+  "keywords": [
+    "scant",
+    "static",
+    "site",
+    "svelte"
+  ],
+  "author": "voldemortensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scantjs/scant-example-site/issues"
+  },
+  "homepage": "https://github.com/scantjs/scant-example-site#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "shimport": "^1.0.0",
+    "sirv-cli": "^0.4.2",
+    "svelte": "^3.3.0",
+    "svelte-routes": "0.0.4"
+  }
+}
