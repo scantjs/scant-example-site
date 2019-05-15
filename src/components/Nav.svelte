@@ -38,7 +38,7 @@
 </style>
 
 <nav class="navbar">
-    <h1 class="site-title">Sylph Example Site</h1>
+    <h1 class="site-title">Scant Example Site</h1>
     <ul>
         <li class="nav-item"><Link to="/" name="Home" /></li>
         <li class="nav-item"><Link to="/blog" name="Blog" /></li>

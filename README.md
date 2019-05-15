@@ -1,14 +1,16 @@
 # Scant Example Site
 
-This repository is an example site utilizing Scant.
+This repository is an example site using Scant.
 
 ## Usage
 
 ```sh
-git clone https://github.com/scantjs/scant-example-site
-cd scant-example-site
+npx degit https://github.com/scantjs/scant-example-site
 npm install
+# if you already ran `npm i -g scant`
 npm build
+# else
+npx scant build
 npm start
 ```
 
