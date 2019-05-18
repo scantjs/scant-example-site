@@ -1,0 +1,21 @@
+{
+  "short_name": "Scant Example",
+  "name": "Scant Example Site",
+  "icons": [
+    {
+      "src": "/assets/icons/scant-logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/scant-logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FF3E00"
+}
