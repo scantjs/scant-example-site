@@ -15,19 +15,11 @@
     });
 </script>
 
-<style>
-    main {
-        width: 50%;
-        margin: 0 auto;
-        padding: 1em;
-    }
-</style>
-
 <main>
 {#if content}
     <div class="post">
         <h2 class="post-title">{postData.title}</h2>
-        <p>Posted: {moment(postData.date).format('MMMM Do YYYY')}</p>
+        <time class="post-date" datetime={postData.date}>{moment.utc(postData.date).format('MMMM Do YYYY')}</time>
         <div>
             {@html content}
         </div>

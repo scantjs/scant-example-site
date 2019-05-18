@@ -1,6 +1,7 @@
 # Scant Example Site
 
-This repository is an example site using Scant.
+This repository is an example site using
+ [Scant](https://github.com/scantjs/scant).
 
 [Scant Example Site](http://scant-example-site.surge.sh/ "Scant Example Site")
 
@@ -16,4 +17,4 @@ npx scant build
 npm start
 ```
 
-Then navigate to `localhost:5000`.
+Then navigate to [`localhost:5000`](http://localhost:5000).

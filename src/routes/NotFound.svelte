@@ -1,8 +1,11 @@
 <style>
-    h1 {
-        font-size: 4em;
+    h1,
+    p {
         text-align: center;
     }
 </style>
 
-<h1>Not Found</h1>
+<main>
+    <h1>Not Found</h1>
+    <p><a href="/">Take me home!</a></p>
+</main>
