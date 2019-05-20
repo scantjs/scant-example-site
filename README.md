@@ -3,7 +3,7 @@
 This repository is an example site using
  [Scant](https://github.com/scantjs/scant).
 
-[Scant Example Site](http://scant-example-site.surge.sh/ "Scant Example Site")
+[Scant Example Site](https://example.scantjs.com/ "Scant Example Site")
 
 ## Usage
 
