@@ -25,8 +25,11 @@
   "dependencies": {
     "moment": "^2.24.0",
     "shimport": "^1.0.0",
-    "sirv-cli": "^0.4.2",
     "svelte": "^3.3.0",
     "svelte-routes": "0.0.4"
+  },
+  "devDependencies": {
+    "scant": "0.0.3",
+    "sirv-cli": "^0.4.2"
   }
 }
